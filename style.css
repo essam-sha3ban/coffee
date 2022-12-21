@@ -669,3 +669,10 @@ footer span{
     font-size: 1.7rem;
   }
 }
+
+@media(max-width:350px)
+{
+  .search input {
+    width: 27rem;
+  }
+}
