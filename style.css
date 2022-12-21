@@ -670,9 +670,11 @@ footer span{
   }
 }
 
-@media(max-width:350px)
-{
+
+
+@media (max-width: 400px) {
   .search input {
-    width: 27rem;
+    width: 29rem;
+    
   }
 }
